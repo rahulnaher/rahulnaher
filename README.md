@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulnaher RAHUL MAHESHWARI
 - 👀 I’m interested in statistics and AI ML
 - 🌱 I’m currently learning Python & R
-- 💞️ I’m looking to collaborate on projects on business analysison & dashboards & visualisation with tableau
+- 💞️ I’m looking to collaborate on projects on business analysis & dashboards & visualisation with tableau
 - 📫 How to reach me rahulnaher@gmail.com
 
 <!---
